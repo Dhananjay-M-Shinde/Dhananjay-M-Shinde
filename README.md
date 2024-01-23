@@ -1,12 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is <span style="color: red;">Dhananjay Shinde</span>
-========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Dhananjay Shinde</h1>
+<h3 align="center">A passionate MEAN Stack developer from India</h3>
 
-MEAN Stack Developer
---------------------
+- 🌱 I’m currently learning **DevOps**
 
-* 🌍  I'm based in Pune, India
-* ✉️  You can contact me at [dmshinde2212@gmail.com](mailto:dmshinde2212@gmail.com)
-* 🧠  I'm learning DevOps
+- 💬 Ask me about **Angular, NodeJs, ExpressJs**
+
+- 📫 How to reach me **dmshinde@gmail.com**
 
 <a href="https://www.github.com/Dhananjay-M-Shinde" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dhananjay-M-Shinde?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
