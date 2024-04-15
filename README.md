@@ -10,7 +10,7 @@
 <a href="https://www.github.com/Dhananjay-M-Shinde" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dhananjay-M-Shinde?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
-[![](https://visitcount.itsvg.in/api?id=dhananjay&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+# 📊 [![](https://visitcount.itsvg.in/api?id=dhananjay&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ### Skills
 
