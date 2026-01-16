@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Angular, NodeJs, ExpressJs**
+- 💬 Ask me about **React, NodeJs, ExpressJs**
 
 - 📫 How to reach me **dmshinde2212@gmail.com**
 
